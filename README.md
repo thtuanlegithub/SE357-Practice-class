@@ -11,7 +11,7 @@
 - Nguyen Trinh Dong 
 - Vu Tuan Hai - [Github](https://github.com/vutuanhai237)
   
-**Description**: This project aims to develop a web-based platform that enables tour operators to manage their tours and customers to book them online.
+**Description**: This project aims to develop a web-based platform that enables tour operator to manage their tours and customers to book them online.
 
 **How to use**: Tour operator can sign in and offer their services on the platform. They can then add their tours, set prices, and manage bookings. Customers can browse through the available tours, select the ones they like, and book them online.
 
